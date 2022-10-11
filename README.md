@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lwinmoehein
 - 👀 I’m interested in Laravel , Vue and Nuxt and Linux.
-- 🌱 I’m currently learning Nuxt
+- 🌱 I’m currently learning Nuxt,Linux Commands
 
 
 <!---

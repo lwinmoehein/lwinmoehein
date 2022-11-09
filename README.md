@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lwinmoehein
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Nuxt and Linux
+- 👀 I’m interested in Android and Web Development.
+- 🌱 I’m currently learning Nuxt and Linux.
+- 💻 My favorite languages are Kotlin and Javascript.
 
 
 <!---

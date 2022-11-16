@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwinmoehein
 - 👀 I’m interested in Android and Web Development.
 - 🌱 I’m currently learning Nuxt and Linux.
-- 💻 My favorite languages are Kotlin and Javascript.
+- 💻 My favorite languages are Kotlin ,PHP and Javascript.
 
 
 <!---

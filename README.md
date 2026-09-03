@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lwin Moe Hein
 - 👀 I'm a software developer
-- ✨ I work with Nodejs, Laravel, AWS
+- ✨ I work with Laravel, AWS
 
 <!---
 lwinmoehein/lwinmoehein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
